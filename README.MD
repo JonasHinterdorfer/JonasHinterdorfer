@@ -38,15 +38,12 @@
 
 <img src="https://raw.githubusercontent.com/JonasHinterdorfer/JonasHinterdorfer/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 
+<sub>Requires `snake.yml` to have run once in this repo — see setup note below.</sub>
+
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=JonasHinterdorfer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHinterdorfer&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=JonasHinterdorfer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JonasHinterdorfer&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=JonasHinterdorfer&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" width="100%" />
