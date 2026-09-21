@@ -38,8 +38,6 @@
 
 <img src="https://raw.githubusercontent.com/JonasHinterdorfer/JonasHinterdorfer/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 
-<sub>Requires `snake.yml` to have run once in this repo — see setup note below.</sub>
-
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=JonasHinterdorfer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
