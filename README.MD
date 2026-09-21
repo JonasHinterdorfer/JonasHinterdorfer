@@ -14,7 +14,7 @@
 - Day to day: .NET, Angular, PostgreSQL, Elasticsearch, Keycloak
 - Self-hosted setup running on Docker, Kubernetes, Traefik
 - Picking up ML basics and depth/image processing for the vision side of the thesis
-- Off-screen: trail riding, 3D printing, way too much Hypixel SkyBlock
+- Off-screen: trail riding, 3D printing, Volunteer Firefighter
 
 ## Stack
 
